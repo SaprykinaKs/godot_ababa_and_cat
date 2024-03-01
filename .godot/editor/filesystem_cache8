@@ -1,0 +1,18 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1709292956
+bg.png::CompressedTexture2D::8134279803688505652::1433538514::1709285871::1::::<><>::
+CharacterBody2D.gd::GDScript::-1::1709284398::0::1::::<>CharacterBody2D<>::
+control.tscn::PackedScene::3741700689549842956::1709289606::0::1::::<><>::uid://b1s6wtkimrnhu::::res://industrial.v2.png<>uid://bs85igwn65ulg::::res://cat/cat.tscn<>uid://dn5knuk8ws7bc::::res://bg.png<>uid://b8ktsyhwq5edx::::res://ababa/ababa.tscn
+industrial.v2.png::CompressedTexture2D::4250411945868586878::1709278685::1709281212::1::::<><>::
+::res://ababa/::1709289606
+ababa.gd::GDScript::-1::1709288177::0::1::::<>CharacterBody2D<>::
+ababa.png::CompressedTexture2D::1086983648989117863::1709122358::1709286938::1::::<><>::
+ababa.tscn::PackedScene::4724483340837797373::1709289606::0::1::::<><>::res://ababa/ababa.gd<>uid://pqspx7ckhbw6::::res://ababa/ababa.png
+::res://cat/::1709289606
+cat.gd::GDScript::-1::1709285050::0::1::::<>CharacterBody2D<>::
+cat.tscn::PackedScene::3719780480954977228::1709289606::0::1::::<><>::res://cat/cat.gd<>uid://bodej40dl7m5p::::res://cat/Run.png<>uid://ca4wu01qo4c6x::::res://cat/Death.png<>uid://dwqqtb7ctu355::::res://cat/Idle.png<>uid://cs5k4yw1ymock::::res://cat/Jump.png
+Death.png::CompressedTexture2D::4834081165968382853::1630138996::1709279559::1::::<><>::
+Idle.png::CompressedTexture2D::8737452159223600666::1630138776::1709279873::1::::<><>::
+Jump.png::CompressedTexture2D::6098832139203466534::1630138816::1709279559::1::::<><>::
+Run.png::CompressedTexture2D::3375518129953486859::1630138800::1709279559::1::::<><>::
+Снимок экрана 2024-03-01 в 13.22.06.png::CompressedTexture2D::581834484286282555::1709288531::1709288531::1::::<><>::
